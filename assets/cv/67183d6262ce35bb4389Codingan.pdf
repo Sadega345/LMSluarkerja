@@ -1,0 +1,147 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Producer (dompdf 0.8.0
+ + CPDF)
+/CreationDate (D:20191029040636-04'00')
+/ModDate (D:20191029040636-04'00')
+/Title (Mengconvert HTML ke PDF dengan PHP)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 595.280 841.890]
+/Parent 3 0 R
+/Annots [ 13 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 1294 >>
+stream
+
+1.000 1.000 1.000 rg
+34.016 34.016 527.249 773.859 re f
+0.333 0.333 0.333 rg
+92.016 766.467 411.000 22.657 re f
+1.000 1.000 1.000 rg
+BT 430.423 775.048 Td /F2 7.5 Tf  [(CONVERT KE PDF)] TJ ET
+0.969 0.969 0.969 rg
+92.016 596.973 411.000 169.494 re f
+0.400 0.400 0.400 rg
+BT 107.766 722.704 Td -0.750 Tc /F2 21.0 Tf  [(Contoh Halaman)] TJ 0.000 Tc ET
+BT 107.766 689.889 Td 1.025 Tw /F2 10.5 Tf  [(Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor )] TJ 0.000 Tw ET
+BT 107.766 677.069 Td 2.690 Tw /F2 10.5 Tf  [(incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis )] TJ 0.000 Tw ET
+BT 107.766 664.248 Td 1.943 Tw /F2 10.5 Tf  [(nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. )] TJ 0.000 Tw ET
+BT 107.766 651.428 Td 2.398 Tw /F2 10.5 Tf  [(Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu )] TJ 0.000 Tw ET
+BT 107.766 638.607 Td 2.931 Tw /F2 10.5 Tf  [(fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in )] TJ 0.000 Tw ET
+BT 107.766 625.787 Td /F2 10.5 Tf  [(culpa qui officia deserunt mollit anim id est laborum.)] TJ ET
+0.969 0.969 0.969 rg
+92.016 575.173 411.000 21.800 re f
+0.400 0.400 0.400 rg
+BT 268.716 583.583 Td /F3 8.0 Tf  [(codingan.com)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+[6 0 R /Fit]
+endobj
+12 0 obj
+[6 0 R /Fit]
+endobj
+13 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 14 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 430.4232 774.3545 496.2657 781.9858 ]
+>>
+endobj
+14 0 obj
+<< /Type /Action
+/S /URI
+/URI (/home/bawuvddj/demo.codingan.com/live/convert-html-pdf/convert.php)
+>>
+endobj
+15 0 obj
+[6 0 R /Fit]
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000295 00000 n 
+0000000324 00000 n 
+0000000497 00000 n 
+0000000619 00000 n 
+0000001965 00000 n 
+0000002074 00000 n 
+0000002181 00000 n 
+0000002287 00000 n 
+0000002316 00000 n 
+0000002345 00000 n 
+0000002473 00000 n 
+0000002591 00000 n 
+trailer
+<<
+/Size 16
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+2620
+%%EOF

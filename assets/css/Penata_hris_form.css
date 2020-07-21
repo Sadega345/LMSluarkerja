@@ -1,0 +1,7 @@
+.fcheight{
+    height: 60px;
+}
+
+select.fcheight:not([size]):not([multiple]) {
+	height: 60px;
+}

@@ -1,0 +1,188 @@
+ /*Button Primary*/
+
+.btn-blue {
+	color: #ffffff !important;
+	background-color: #003399 !important;
+	border-color: #003399 !important;
+	width: 100%;
+	border-radius: 6px;
+	
+}
+.btn-blue1 {
+	color: #ffffff !important;
+	background-color: #003399 !important;
+	border-color: #003399 !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+	
+}
+
+.btn-green {
+	color: #ffffff !important;
+	background-color: #47AB6C !important;
+	border-color: #47AB6C !important;
+	width: 100%;
+	border-radius: 15px;
+	
+}
+.btn-darkblue {
+	color: #ffffff !important;
+	background-color: #003399 !important;
+	border-color: #003399 !important;
+	width: 100%;
+	border-radius: 15px;
+	
+}
+.btn-green1 {
+	color: #ffffff !important;
+	background-color: #47AB6C !important;
+	border-color: #47AB6C !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+	
+}
+
+.btn-green2 {
+	color: #47AB6C !important;
+	background-color: #ffffff !important;
+	border-color: #47AB6C !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+}
+
+.btn-greeen2 {
+	color: #47AB6C !important;
+	background-color: #ffffff !important;
+	border-color: #47AB6C !important;
+	width: 20%;
+	border-radius: 15px;
+}
+.btn-yellow {
+	color: #ffffff !important;
+	background-color: #ffc107 !important;
+	border-color: #ffc107 !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+	
+}
+
+.btn-grey2 {
+	color: #999999 !important;
+	background-color: #ffffff !important;
+	border-color: #999999 !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+}
+
+.btn-grey {
+	color: #999999 !important;
+	background-color: #ffffff !important;
+	border-color: #999999 !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+}
+
+.btn-orange2 {
+	color: #F2B134 !important;
+	background-color: #ffffff !important;
+	border-color: #F2B134 !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+}
+
+.btn-red2 {
+	color: #ED553B !important;
+	background-color: #ffffff !important;
+	border-color: #ED553B !important;
+	width: 100%;
+	border-radius: 15px;
+}
+.btn-red1 {
+	color: #fff !important;
+	background-color: #ED553B !important;
+	border-color: #ED553B !important;
+	/*width: 100%;*/
+	border-radius: 15px;
+}
+
+.btn-black {
+	color: #ffffff !important;
+	background-color: #444444 !important;
+	border-color: #444444 !important;
+	width: 100%;
+	border-radius: 6px;
+	
+}
+
+.btn-blue:hover {
+	color: #fff !important;
+	background-color: #0069d9 !important;
+	border-color: #0062cc !important;
+	cursor: pointer !important;
+}
+
+.btn-green:hover {
+	color: #fff !important;
+	background-color: #47AB6C !important;
+	border-color: #0062cc !important;
+	cursor: pointer !important;
+}
+.btn-green1:hover {
+	color: #fff !important;
+	background-color: #47AB6C !important;
+	border-color: #0062cc !important;
+	cursor: pointer !important;
+}
+.btn-yellow:hover {
+	color: #fff !important;
+	background-color: #ffc107 !important;
+	border-color: #0062cc !important;
+	cursor: pointer !important;
+}
+
+.btn-black:hover {
+	color: #fff !important;
+	background-color: #999999 !important;
+	border-color: #444444 !important;
+	cursor: pointer !important;
+}
+
+/* End Button */
+
+/* Button Cancel*/
+
+.btn-cancel {
+	color: #fff;
+	background-color: red !important;
+	border-color: red !important;
+	padding: 6px 18px;
+	width: 100px;
+	border-radius: 8px;
+}
+
+.btn-bluesubmit {
+	color: #ffffff !important;
+	background-color: #003399 !important;
+	border-color: #003399 !important;
+	padding: 6px 18px;
+	width: 100px;
+	border-radius: 8px;
+}
+
+/* End Button Cancel */
+
+/* Button Tab */
+
+.nav-tabs-new>li>a.active {
+	border: 1px solid blue !important;
+	background: blue !important;
+	color: #fff
+}
+
+.nav-tabs-new>li>a:hover,
+.nav-tabs-new>li>a:focus {
+	background-color: blue !important;
+	color: #fff
+}
+
+/* End Button Tab 

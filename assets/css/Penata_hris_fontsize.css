@@ -1,0 +1,93 @@
+.barlow-bold{
+	font-family: "barlow-Bold" !important;
+}
+.fz-18{
+	font-size: 18px !important;
+	color: #2f3443 !important;
+}
+.fz-18-tebal{
+	font-size: 18px !important;
+	color: #000000 !important;
+}
+
+.fz-48-tebal{
+	font-size: 48px !important;
+	color: #000000 !important;
+}
+
+.fz-18-nama{
+	font-size: 18px !important;
+	color: #466ba5 !important;
+}
+
+.fz-16-tebal{
+	font-size: 16px !important;
+	color: #000000 !important;
+}
+.fz-16{
+	font-size: 16px !important;
+	/*color: #2f3443;*/
+}
+.fz-16-tebal{
+	font-size: 16px !important;
+	color: #2f3443;
+}
+
+.fz-16-aplicant{
+	font-size: 16px !important;
+	color: #697276;
+}
+
+.fz-12{
+	font-size: 12px !important;
+    color: #697276;
+}
+
+.fz-12-hari{
+	font-size: 12px !important;
+    color: #2f3443;
+}
+
+.fz-14{
+	font-size: 14px !important;
+}
+
+.fz-14-judul{
+	font-size: 14px !important;
+	color: #2f3443;
+}
+
+.fz-14-isi{
+	font-size: 14px !important;
+	color: #697276;
+}
+
+.fz-36{
+	font-size: 36px !important;
+	color: #2f3443 !important;
+}
+
+.fz-36-aplicant{
+	font-size: 36px !important;
+	color: #000000 !important;
+}
+
+.fz-24{
+	font-size: 24px !important;
+	color: #2f3443 !important;
+}
+
+.fz-aktivitasabsensi{
+	padding: 16px 0px 0px 0px;
+	font-size: 18px !important;
+	color: #2f3443 !important;
+}
+
+.fz-tambah{
+	padding: 39px 15px 0px 0px;
+	font-size: 14px !important;
+}
+.fz-body{
+	font-size: 18px !important;
+	color: #2f3443 !important;
+}

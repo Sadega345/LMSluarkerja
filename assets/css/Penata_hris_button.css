@@ -1,0 +1,313 @@
+.transparent{
+  border: #f8f9fa36 !important;
+}
+.input-group-text-search {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    /* color: #495057; */
+    text-align: center;
+    white-space: nowrap;
+    /* background-color: #e9ecef; */
+    /* border: 1px solid #ced4da; */
+    border-radius: .25rem;
+}
+
+.padd-right-5{
+  padding-right: 5px;
+}
+.padd-top-20{
+  padding-top: 20px;
+}
+
+.padd-top-10{
+  padding-top: 10px;
+}
+
+.Rectangle-sts-diterima {
+  color: #40c17c !important;
+  background-color: #d9f6e6 !important;
+  border-color: #d9f6e6 !important;
+  width: 100%;
+  border-radius: 2px
+}
+
+.Rectangle-sts-ditolak {
+  color: #e24a4a !important;
+  background-color: #ffe8e8 !important;
+  border-color: #ffe8e8 !important;
+  width: 100%;
+  border-radius: 2px
+}
+
+.Rectangle-sts-proses {
+  color: #fcb346 !important;
+  background-color: #ffeed4 !important;
+  border-color: #ffeed4 !important;
+  width: 100%;
+  border-radius: 2px
+}
+
+.btn-sts-open{
+  width: 46px;
+  height: 25px;
+  font-size: 12px;
+  border-radius: 2px;
+  background-color: #2bcc58;
+  text-align: center;
+  padding-top: 2px;
+  color: #ffff;
+
+}
+.btn-sts-close{
+  width: 46px;
+  height: 25px;
+  font-size: 12px;
+  border-radius: 2px;
+  background-color: #ed4949;
+  text-align: center;
+  padding-top: 3px;
+  color: #ffff;
+}
+.btn-sts-expired{
+ width: 58px;
+  height: 25px;
+  font-size: 12px;
+  border-radius: 2px;
+  background-color: #ed4949;
+  text-align: center;
+  padding-top: 2px;
+  color: #ffff;
+}
+.btn-aksi{
+  border-radius: 2px;
+  border: solid 1px #e3e4e9;
+  background-color: #ffffff;
+  color: #0c0d13;
+}
+
+
+.Rectangle-20 {
+  width: 132px;
+  height: 36px;
+  border-radius: 50px;
+  background-color: #ffba53;
+}
+
+.Rectangle-menunggu {
+  color: #ffffff !important;
+  background-color: #facb53 !important;
+  border-color: #facb53 !important;
+  width: 100%;
+  border-radius: 2px
+}
+
+.Rectangle-permanent {
+  border-radius: 2px;
+  border: solid 1px #40c17c;
+  font-size: 12px;
+  color: #40c17c !important;
+  background-color: #d9f6e6 !important;
+  border-color: #d9f6e6 !important;
+  padding: 7px;
+  text-align: center;
+  font-weight: unset;
+}
+
+.Rectangle-contract {
+  border-radius: 2px;
+  border: solid 1px #2187e5;
+  color: #2187e5 !important;
+  background-color: #e2eefa !important;
+  border-color: #e2eefa !important;
+  padding: 7px;
+  font-weight: unset;
+  font-size: 12px;
+}
+
+
+
+.Rectangle-probation {
+  border-radius: 2px;
+  border: solid 1px #fcb346;
+  color: #fcb346 !important;
+  background-color: #ffeed4 !important;
+  border-color: #ffeed4 !important;
+  padding: 7px;
+  font-weight: unset;
+  font-size: 12px;
+}
+
+.Rectangle-resign {
+  border-radius: 2px;
+  border: solid 1px #e24a4a;
+  color: #e24a4a !important;
+  background-color: #ffe8e8 !important;
+  border-color: #ffe8e8 !important;
+  padding: 7px;
+  font-weight: unset;
+  font-size: 12px;
+}
+.Rectangle-expired {
+  border-radius: 2px;
+  border: solid 1px #e02828;
+  color: #ffff !important;
+  background-color: #e02828 !important;
+  border-color: #e02828 !important;
+  padding: 7px;
+  font-weight: unset;
+  font-size: 12px;
+}
+.Rectangle-tutup {
+  width: 86px;
+  height: 36px;
+  border-radius: 4px;
+  background-color: #d45151 !important;
+  border-color: #ffe8e8 !important;
+  color: #ffffff !important;
+}
+
+.Rectangle-batal {
+  /*width: 111px;*/
+  height: 48px;
+  border-radius: 4px;
+  background-color: #e5e6ed !important;
+  border-color: #e5e6ed !important;
+  color: #697276 !important;
+}
+
+.Rectangle-simpan {
+  width: 86px;
+  height: 36px;
+  border-radius: 4px;
+  background-color: #31b065 !important;
+  border-color: #31b065 !important;
+  color: #ffffff !important;
+}
+
+.Rectangle-diterima {
+  color: #ffffff !important;
+  background-color: #31b065 !important;
+  border-color: #31b065 !important;
+  width: 100%;
+  border-radius: 2px
+}
+
+.Rectangle-editprofile {
+  background-color: #466ba5 !important;
+  color: #ffffff !important;
+  border-color: #466ba5 !important;
+  width: 100%;
+  border-radius: 2px
+}
+
+.Rectangle-ditolak {
+  color: #ffffff !important;
+  background-color: #da5353 !important;
+  border-color: #da5353 !important;
+  width: 100%;
+  border-radius: 2px;
+
+}
+
+.Rectangle-tambah {
+  width: 124px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #31b065 !important;
+  color: #ffffff !important;
+  border-color: #31b065 !important;
+}
+
+.Rectangle-cari {
+  /*width: 124px;*/
+  height: 48px;
+  border-radius: 4px;
+  background-color: #466ba5 !important;
+  color: #ffffff !important;
+  border-color: #466ba5 !important;
+}
+
+.Rectangle-save {
+  /*width: 124px;*/
+  /*height: 48px;*/
+  border-radius: 4px;
+  background-color: #ffcc00 !important;
+  color: #ffffff !important;
+  border-color: #ffcc00 !important;
+}
+
+.Rectangle-cancel {
+  /*width: 124px;*/
+  /*height: 48px;*/
+  border-radius: 4px;
+  background-color: #2cb98a !important;
+  color: #ffffff !important;
+  border-color: #2cb98a !important;
+}
+.Rectangle-export {
+  /*width: 124px;*/
+  height: 48px;
+  border-radius: 4px;
+  background-color: #31b065 !important;
+  color: #ffffff !important;
+  border-color: #31b065 !important;
+}
+.Rectangle-simpan-blue {
+  border-radius: 4px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #466ba5;
+}
+
+.Rectangle-generate {
+  
+  /*height: 48px;*/
+  border-radius: 4px;
+  border: solid 1px #466ba5;
+  background-color: #ffffff !important;
+  color: #466ba5 !important;
+  border-color: #466ba5 !important;
+}
+
+.Rectangle-login {
+  /*width: 440px;*/
+  height: 60px;
+  border-radius: 4px;
+  background-color: #466ba5 !important;
+  color: #ffffff !important;
+  border-color: #466ba5 !important;
+}
+
+.Rectangle-daftarloker {
+  /*width: 440px;*/
+  height: 60px;
+  border-radius: 4px;
+  background-color: #ffffff !important;
+  color: #466ba5 !important;
+  border-color: #466ba5 !important;
+}
+.Rectangle-35 {
+  border-radius: 8px;
+  background-color: #466ba5;
+}
+
+/*.Pengumuman {
+  width: 84px;
+  height: 17px;
+  font-family: Barlow;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+
+}*/

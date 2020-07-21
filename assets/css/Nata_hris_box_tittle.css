@@ -1,0 +1,46 @@
+/*.card .header h2 {
+	font-size: 16px;
+	color: blue;
+	position: relative
+}
+
+.card .header h2 small {
+	font-size: 13px;
+	color: #999;
+	line-height: 15px
+}
+
+.card .header h2 small a {
+	font-weight: 700;
+	color: #777
+}*/
+.break-word{
+	word-wrap: break-word;
+	width: 100%;
+	white-space: normal;
+}
+
+.just-color-blue{
+	color: #003399 !important;
+}
+
+.tittle-box{
+	color: #003399 !important;
+	padding-bottom: 10px
+
+}
+
+.tittle-menu{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	/*font-size: 36px;*/
+}
+
+.content-box{
+	font-size: 12px
+}
+
+.content-box-bottom{
+	color: #003399 !important;
+	padding-bottom: 15px
+}

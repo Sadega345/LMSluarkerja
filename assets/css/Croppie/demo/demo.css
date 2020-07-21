@@ -1,0 +1,49 @@
+.demo-wrap {
+    border-bottom: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.demo-wrap .container {
+    padding-bottom: 10px;
+}
+
+.demo-wrap strong {
+    font-size: 16px;
+    display: block;
+    font-weight: 400;
+    color: #aaa;
+    margin: 0 0 5px 0;
+}
+
+.upload-demo .upload-demo-wrap,
+.upload-demo .upload-result,
+.upload-demo.ready .upload-msg {
+    /*display: none;*/
+}
+.upload-demo.ready .upload-demo-wrap {
+    display: block;
+}
+.upload-demo.ready .upload-result {
+    display: inline-block;    
+}
+.upload-demo-wrap {
+    width: 300px;
+  /*  height: 300px;*/
+    margin: 0 auto;
+}
+
+.upload-msg {
+    text-align: center;
+    padding: 50px;
+    font-size: 22px;
+    color: #aaa;
+    width: 260px;
+    margin: 50px auto;
+    border: 1px solid #aaa;
+}
+
+/* Sweet alert modifications */
+.sweet-alert {
+    width: auto;
+    max-width: 85%;
+}

@@ -1,0 +1,90 @@
+
+.tab-content {
+	/*padding: 15px*/
+}
+
+#left-sidebar {
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	width: 250px;
+	background-color: #fff;
+	height: 100%;
+	float: left;
+	/*margin-top: 65px;*/
+	position: fixed;
+	left: 5px;
+	z-index: 9
+}
+
+@media screen and (max-width: 1200px) {
+	#left-sidebar {
+		-moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.2);
+		-webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.2);
+		box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.2);
+		left: -250px
+	}
+}
+
+@media screen and (max-width: 992px) {
+	#left-sidebar {
+		margin-top: 50px
+	}
+}
+
+#left-sidebar .nav-tabs .nav-link.active {
+	background-color: transparent;
+	border-color: #dee2e6 #dee2e6 #f4f7f6
+}
+
+.layout-fullwidth #wrapper #left-sidebar {
+	left: -250px
+}
+
+.layout-fullwidth #wrapper #left-sidebar.ps {
+	overflow: visible !important
+}
+
+.layout-fullwidth #wrapper #main-content {
+	width: 100%
+}
+
+.offcanvas-active #left-sidebar {
+	left: 5px
+}
+
+@media screen and (max-width: 992px) {
+	.offcanvas-active #left-sidebar {
+		left: 2px
+	}
+}
+.user-account {
+	/*margin: 20px*/
+	padding: 40px 10px 5px 20px;
+	background-color: #ffffff
+}
+.user-account2 {
+	/*margin: 20px*/
+	/*padding: 40px 10px 5px 20px;
+	background-color: #ffffff*/
+	position: fixed;
+	right: 50px;
+}
+.user-account .user-photo {
+	width: 50px;
+	vertical-align: top;
+	border: 2px solid #dfdfdf
+}
+
+.user-account .user-name {
+	color: inherit
+}
+.mb-min-15{
+	margin-bottom: -15px
+}
+.user-account .user-name:hover,
+.user-account .user-name:focus {
+	text-decoration: none
+}
